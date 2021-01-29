@@ -1680,15 +1680,15 @@ body.dark .blog-page-section .blog-single {
 }
 
 .social-icons li:nth-child(1) a:hover {
-  color: #e4405f !important;
+  color: #ff00b3 !important;
 }
 
 .social-icons li:nth-child(2) a:hover {
-  color: #48c857 !important;
+  color: #e94e31 !important;
 }
 
 .social-icons li:nth-child(3) a:hover {
-  color: #e94e31 !important;
+  color: #48c857 !important;
 }
 
 .social-icons li:nth-child(4) a:hover {

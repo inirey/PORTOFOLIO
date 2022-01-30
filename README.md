@@ -1,3 +1,3 @@
-## Web Portofolio
-
-# this is a simple portfolio website... which was designed by xhry please give a star 🌟
+### Thanks To 
+[`@xhry`](https://github.com/xhry)
+[`@sandhikagalih`](https://github.com/sandhikagalih)
